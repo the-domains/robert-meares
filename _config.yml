@@ -1,7 +1,7 @@
 name: Robert Meares
 favicon: null
-layout_spectrum: 0.7375967986881733
-typography_spectrum: 0.17415062454529107
+layout_spectrum: 1
+typography_spectrum: 0.74123
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.4222885633353144
-  lightness: 0.4986798698082566
-  saturation: 0.36006351886317134
-  rhythmicContrast: 0.5454870464745909
+  brandStrength: 0.4375
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
