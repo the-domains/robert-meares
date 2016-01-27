@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robert Meares]]></title>
+        <description><![CDATA[Robert Meares]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 23:19:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No idea]]></title>
+            <description><![CDATA[<article><h1>No idea</h1><p>a post of nonsense</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd82a4fe0a3ac88007e615b392a6f3472dd93eb6.jpg"></article>]]></description>
+            <link>undefinedno-idea/index.html</link>
+            <guid isPermaLink="false">5487dc71-7ccc-4001-aebc-19eedc137f17</guid>
+            <pubDate>Wed, 27 Jan 2016 23:16:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
