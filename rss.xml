@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Robert Meares]]></title>
         <description><![CDATA[Robert Meares]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robert-meares/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 23:19:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 23:36:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robert-meares/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c8eb312-e3e1-4889-ac79-8b40f70b4f0a.JPG">]]></description>
+            <link>https://thegrid.ai/robert-meares/c194323a-e768-453a-bb5a-b135b8e5fc0e/index.html</link>
+            <guid isPermaLink="false">c194323a-e768-453a-bb5a-b135b8e5fc0e</guid>
+            <pubDate>Wed, 27 Jan 2016 23:30:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No idea]]></title>
             <description><![CDATA[<article><h1>No idea</h1><p>a post of nonsense</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd82a4fe0a3ac88007e615b392a6f3472dd93eb6.jpg"></article>]]></description>
-            <link>undefinedno-idea/index.html</link>
+            <link>https://thegrid.ai/robert-meares/no-idea/index.html</link>
             <guid isPermaLink="false">5487dc71-7ccc-4001-aebc-19eedc137f17</guid>
             <pubDate>Wed, 27 Jan 2016 23:16:06 GMT</pubDate>
         </item>
