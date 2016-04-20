@@ -1,28 +1,40 @@
-name: Robert Meares
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.74123
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5824373
+  brandStrength: 0.7114695
+  lightness: 0.672043
   brandColors:
     - '#b4bbc1'
     - '#ba9863'
     - '#7c8582'
     - '#65625b'
     - '#181d17'
-  brandStrength: 0
-  lightness: 0.875
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.3136201
+typography_spectrum: 0.811828
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.8853046
+favicon: null
+name: Robert Meares
