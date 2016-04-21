@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: Robert Meares
 opengraph:
   image: null
   type: null
@@ -13,28 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.7096774
-  brandStrength: 0.7114695
-  lightness: 0.5698925
+  saturation: 0.7293907
+  brandStrength: 0.7168459
+  lightness: 0.5842294
   brandColors:
-    - '#b4bbc1'
-    - '#ba9863'
-    - '#7c8582'
-    - '#65625b'
-    - '#181d17'
+    - '#A5D9F1'
+    - '#1C1E2B'
+    - '#895F49'
+    - '#AF9DB3'
+    - '#E4E474'
   rhythmicContrast: 0
 typography_spectrum: 0.811828
-layout_spectrum: 0.8853046
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.1666667
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Robert Meares
